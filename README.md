@@ -13,4 +13,4 @@ Each version has its own branch, named `versions/[VERSION]`. The default branch 
 
 | Branch                                                                                  | Version | Release Date |
 | --------------------------------------------------------------------------------------- |:-------:|:------------:|
-| [versions/1.0](https://github.com/kodecocodes/m3-aaid-cbe-homework/tree/versions/1.0) | 1.0     | 2026-11-12   |
+| [versions/1.0](https://github.com/kodecocodes/m3-aaid-cbe-homework/tree/versions/1.0) | 1.0     | 2026-11-15   |
