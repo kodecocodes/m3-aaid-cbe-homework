@@ -1,7 +1,7 @@
 # AI-Assisted iOS Development Homework Starter 1
 
 
-This repo contains the homework starter project for the [AI-Assisted iOS Development](https://www.kodeco.com/ios/programs/ai-assisted-ios-development)program from [Kodeco](https://www.kodeco.com).
+This repo contains the homework starter project for the [AI-Assisted iOS Development](https://www.kodeco.com/ios/programs/ai-assisted-ios-development) program from [Kodeco](https://www.kodeco.com).
 
 You can experience the program as content only, or as an on-demand bootcamp with homeworks and quizzes.
 
