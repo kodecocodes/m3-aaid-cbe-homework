@@ -1,9 +1,9 @@
-# Module name: Materials
-
-> __TODO:__ Create a new repo from this template, create the requisite versions/x.x branch, add the relevant team with Write access, and update references in this readme as appropriate.
+# AI-Assisted iOS Development Homework Starter 1
 
 
-This repo contains all the downloadable materials and projects associated with the [MODULE](https://www.kodeco.com) from [Kodeco](https://www.kodeco.com).
+This repo contains the homework starter project for the [AI-Assisted iOS Development](https://www.kodeco.com/ios/programs/ai-assisted-ios-development)program from [Kodeco](https://www.kodeco.com).
+
+You can experience the program as content only, or as an on-demand bootcamp with homeworks and quizzes.
 
 --- 
 
@@ -13,4 +13,4 @@ Each version has its own branch, named `versions/[VERSION]`. The default branch 
 
 | Branch                                                                                  | Version | Release Date |
 | --------------------------------------------------------------------------------------- |:-------:|:------------:|
-| [versions/1.0](https://github.com/kodecocodes/m3-TODO-materials/tree/versions/1.0) | 1.0     | YYYY-MM-DD   |
+| [versions/1.0](https://github.com/kodecocodes/m3-aaid-cbe-homework/tree/versions/1.0) | 1.0     | 2026-11-12   |
